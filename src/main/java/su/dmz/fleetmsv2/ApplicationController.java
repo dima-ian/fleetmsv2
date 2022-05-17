@@ -8,7 +8,7 @@ public class ApplicationController {
 
     @GetMapping("/index")
     public String home() {
-        return "index";
+        return "index2";
     }
     @GetMapping("/hr")
     public String hr() {
