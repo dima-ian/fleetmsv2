@@ -3,7 +3,7 @@ package su.dmz.fleetmsv2;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//  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
+//  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
 
 @SpringBootApplication
 public class Fleetmsv2Application {
